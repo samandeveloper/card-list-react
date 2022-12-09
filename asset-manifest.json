@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-list-react/static/css/main.4daa7d03.chunk.css",
+    "main.js": "/card-list-react/static/js/main.0b057ccc.chunk.js",
+    "main.js.map": "/card-list-react/static/js/main.0b057ccc.chunk.js.map",
+    "runtime-main.js": "/card-list-react/static/js/runtime-main.8ebb8169.js",
+    "runtime-main.js.map": "/card-list-react/static/js/runtime-main.8ebb8169.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/card-list-react/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/card-list-react/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/card-list-react/index.html",
+    "precache-manifest.39d97aad70d6cd0536c75be4aa59c370.js": "/card-list-react/precache-manifest.39d97aad70d6cd0536c75be4aa59c370.js",
+    "service-worker.js": "/card-list-react/service-worker.js",
+    "static/css/main.4daa7d03.chunk.css.map": "/card-list-react/static/css/main.4daa7d03.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/card-list-react/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebb8169.js",
+    "static/js/2.4904b4fd.chunk.js",
+    "static/css/main.4daa7d03.chunk.css",
+    "static/js/main.0b057ccc.chunk.js"
+  ]
+}
